@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parallax Demo</string>
+    <string name="wallpaper_name">Parallax Live Wallpaper</string>
+    <string name="intensity_title">Parallax 強度</string>
+    <string name="intensity_value_format">目前強度：%1$d%%</string>
+    <string name="live_wallpaper_hint">你可以把這個效果接到 Live Wallpaper（服務已包含）。</string>
+</resources>
